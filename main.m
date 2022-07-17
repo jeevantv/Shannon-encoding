@@ -11,7 +11,7 @@ for i=1:m
     p1(i)=input('');
 end
 p=sort(p1,'descend');
-display("probabilities in scdeending order is');
+display('probabilities in descending order is');
 display(p);
 %Finding each alpha values 
 a(1)=0;
